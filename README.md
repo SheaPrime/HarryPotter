@@ -5,10 +5,7 @@ The Boy Who Lived
 
  director of a firm called Grunnings, which made
 drills. He was a big, beefy man with hardly any neck, although he did
-have a very large mustache. Mrs. Dursley was thin and blonde and had
-nearly twice the usual amount of neck, which came in very useful as she
-spent so much of her time craning over garden fences, spying on the
-neighbors. The Dursleys had a small son called Dudley and in their
+heys had a small son called Dudley and in their
 opinion there was no finer boy anywhere.
 adding
 2
@@ -77,25 +74,7 @@ lines
 /
 /
 /
-/
-/
-/
-lines10
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+
 /
 /
 /
@@ -115,6 +94,22 @@ lines
 /
 /
 /
+
+
+
+
+
+dd
+d
+d
+d
+
+d
+d
+d
+d
+
+ddd
 /
 /
 /
