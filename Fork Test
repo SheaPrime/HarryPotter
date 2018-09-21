@@ -3,32 +3,33 @@ ed
 2
 3
 4
-5 lines new commit
-1
-2
-3
-4
-5
-d
-d
 d
 d
 d
 
+5 lines new commit
+1
+
+
+
+
+
+2
+3
+4
+5
+ad
+dasd
+dsdf
+dasdff
+dsdfasdf
+dsf
 6
 7
 8
 9 line ocmmit should be excluded 
 1
-2
-3
-4
-5
-6
-7
-8
-9
-10 line commmit should not be excluded 
+2line commmit should not be excluded 
 
 ds
 ads
@@ -45,3 +46,14 @@ ds
 
 
 ajdfklasjdfklsdajf
+dadsfasdf
+ds
+afsd
+f
+ds
+f
+
+ds
+
+da
+d
